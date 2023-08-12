@@ -1,0 +1,5 @@
+birds: array [4] int = {3,2,1,0};
+birds: array [3] string;
+birds = {"oriole","bluejay","morning dove"};
+
+//testing if arrays work properly

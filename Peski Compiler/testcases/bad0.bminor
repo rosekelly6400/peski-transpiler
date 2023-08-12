@@ -1,0 +1,5 @@
+b: boolean;
+x: integer == 3;
+y: integer = 5;
+
+//can't use equality operator between type and value

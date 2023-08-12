@@ -1,0 +1,8 @@
+myfunc: function void ( ) = {
+	i: integer;
+	for(i<size ;i=0;i++) {
+		
+	}
+}
+
+//assignment and boolean parts of for loop in wrong places

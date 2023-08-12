@@ -1,0 +1,8 @@
+myfunc: function void ( ) = {
+	i: integer;
+	while(7%2) {
+		print 0;
+	}
+}
+
+//any expression should be able to go into parantheses of while loop

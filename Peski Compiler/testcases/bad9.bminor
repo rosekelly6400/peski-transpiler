@@ -1,0 +1,7 @@
+12num: integer;
+12num = 90;
+bool: boolean = false;
+character: char    = 'c';
+ss*sstring: string  = "hello world\n";
+
+//scanner shouldn't allow for improper identifier names

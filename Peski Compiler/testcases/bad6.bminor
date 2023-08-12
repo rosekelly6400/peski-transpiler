@@ -1,0 +1,5 @@
+f: boolean = False;
+n: boolean = 9>0;
+b: boolean = c: char = 'a' <= a: integer = 9;
+
+//can't evaluate equality of declarations

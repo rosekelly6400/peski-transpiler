@@ -1,0 +1,12 @@
+if(b >= 34) {
+	d: char = 'p';
+}
+if(False) {
+	d: string = 'gnar gnar';
+}
+else {
+	b = 0;
+}
+
+
+    // testing if parser accepts if else statements

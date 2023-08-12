@@ -1,0 +1,8 @@
+myfunc: function void ( ) = {
+	i: integer;
+	for(;;) {
+		
+	}
+}
+
+//should allow for "empty" for loop

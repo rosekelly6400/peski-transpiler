@@ -1,0 +1,10 @@
+yesFun: function void () = {
+	print "yes";
+}
+
+noFun: function integer (c:char) = {
+	print "lets get to work";
+	return 0;
+}
+
+//testing out simple function decls

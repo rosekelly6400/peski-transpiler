@@ -1,0 +1,3 @@
+anArray: array [x] integer = {9,2654,0,4,0};
+
+//array should be able to take ident as its value

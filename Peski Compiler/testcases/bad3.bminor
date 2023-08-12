@@ -1,0 +1,5 @@
+a: array [] integer;
+a: array [][] integer;
+a: array [] array [] integer;
+
+//two correct and one incorrect way of creating arrays

@@ -1,0 +1,4 @@
+print @#~~;
+print ][];
+
+/*testing for scanner error, certain symbols shouldn't be allowed since they are not tokens*/

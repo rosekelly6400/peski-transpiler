@@ -1,0 +1,3 @@
+stop: function ( );
+
+//function decl must have type

@@ -1,0 +1,13 @@
+double: function integer ( x: integer ) = {
+	return x*2;
+}
+
+triple: function integer ( x: integer )  {
+	return x*3;
+}
+
+zero: function integer ( x: integer ) = {
+	return x*0;
+}
+
+//should give error due to missing assignment operator for triple function

@@ -1,0 +1,7 @@
+num: integer;
+num integer = -2;
+bool: boolean = 43;
+character: char    = True;
+sssstring: string  = "hello world\n";
+
+//missassignment of values to types

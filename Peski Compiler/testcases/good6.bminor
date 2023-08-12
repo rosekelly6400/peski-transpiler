@@ -1,0 +1,11 @@
+zeroParameteredFn: function integer ()=
+{
+	return 1;
+}
+
+manyParameteredFn: function char (a:char, b:char, answers: array [] string,  z: char)=
+{
+	return z;
+}
+
+//use of none or many parameters

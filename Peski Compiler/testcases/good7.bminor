@@ -1,0 +1,7 @@
+print "hello there", s;
+
+print false, 22, "no thanks", '.';
+
+print "goodbye";
+
+//different uses of print

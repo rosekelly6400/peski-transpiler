@@ -1,0 +1,14 @@
+Typechecking!
+Parse successful!
+a resolves to local 1
+limit resolves to param 1
+a resolves to local 1
+a resolves to local 1
+a resolves to local 1
+limit resolves to param 1
+found resolves to local 2
+found resolves to local 2
+fizzbuzz resolves to global fizzbuzz
+No Type Resolution Errors Found.
+No Type Checking Errors Found.
+Compiling!
